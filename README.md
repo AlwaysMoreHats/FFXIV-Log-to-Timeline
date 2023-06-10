@@ -1,2 +1,1 @@
-# FFXIV-Log-to-Timeline
-Converts a FFLogs CSV to a timeline
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
